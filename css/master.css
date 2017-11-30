@@ -1,0 +1,77 @@
+
+html {
+background: url("../images/dusk.jpeg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+.my-box{
+  width: 400px;
+  height: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+
+  }
+  .my-box2{
+    width: 0, auto;
+    height: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    color: white;
+    margin: 0 ;
+    margin-top: 100px;
+    text-align: center;
+
+    }
+    .my-box3{
+      width: 0, auto;
+      height: 450px;
+      background: rgba(0, 0, 0, 0.4);
+      padding: 40px;
+      color: white;
+      margin: 0 ;
+      margin-top: 100px;
+      text-align: center;
+
+      }
+  .my-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+  }
+h1{
+  font-weight: 100;
+  letter-spacing: 6px;
+  font-size: 40px;
+}
+p{
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+.social-icon{
+  font-size: 25px;
+}
+.social-icon a{
+  color: white;
+}
+.line-break{
+  width: 325px;
+  border-top: 1px solid white;
+  margin: 0 auto;
+}
+.aboutme{
+  line-height: 2em;
+text-align: center;
+}
+.my-pic1{
+  width: 70px;
+height: 57px;
+object-fit: contain;
+}
